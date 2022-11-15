@@ -1,0 +1,43 @@
+body {
+	width: 700px;
+    margin: 50px auto;
+}
+}
+
+h1 {
+	color:skyblue;
+}
+h2 {
+	color:orange;
+	font-size:29px;
+	font-weight:640;
+}
+h3 {
+	color: green;
+} 
+h3 {
+    margin:6px;
+    font-size:25px;
+    font-weight:610;
+}
+p {
+	margin:10px;
+	font-size:18px;
+	font-weight:400;
+}
+h4 {
+	color: skyblue;
+	font-size:25px;
+	font-weight:600;
+}
+
+div h1{
+	border-top:2px solid grey;
+	border-right:2px solid grey ;
+	border-bottom:2px solid grey ;
+	border-left:2px solid grey ;
+	border-radius:5px ;
+}
+
+
+
